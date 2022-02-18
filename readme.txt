@@ -1,1 +1,1 @@
-git is tool
+git is cool tool
